@@ -1,7 +1,7 @@
 #build settings
-name: 药师寺叶子
+name: yakushiji yoko
 title: 药师寺叶子
-description: 药师寺叶子 quanzhitongren
+description: quanzhitongren archive
 url: "https://yakushijiyoko.github.io/qzgs"
 markdown: kramdown
 theme: minima
