@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "药师寺叶子"
+title: "Home"
 ---
 
 # Home  
