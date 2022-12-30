@@ -1,2 +1,6 @@
 #build settings
+name: 药师寺叶子
+description: quanzhitongren
+url: "https://yakushijiyoko.github.io/qzgs"
+markdown: kramdown
 theme: minima
