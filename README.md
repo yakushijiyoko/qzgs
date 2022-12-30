@@ -1,3 +1,8 @@
+---
+layout: page
+title: "药师寺叶子"
+---
+
 # Home  
 My《全职高手》腐向同人放置处  
 有很多陈年旧坑的存档博客：qzgsdoujin.home.blog  
